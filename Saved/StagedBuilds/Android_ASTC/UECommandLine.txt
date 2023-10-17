@@ -1,0 +1,1 @@
+../../../macbeth_air_2/macbeth_air_2.uproject /Game/HandheldAR/Maps/HandheldARBlankMap -Messaging -SessionId=3DAF7C7C44E8645437915AA447B3A0AF -SessionOwner="ji_ho" -SessionName="Launch On Device"
